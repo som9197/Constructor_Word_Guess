@@ -1,2 +1,4 @@
 # Constructor_Word_Guess
-Handman via Node
+Hangman via Node
+
+This was tough. Constructors. Woof. 
